@@ -1,7 +1,7 @@
 # Boost WordPress Speed & Performance
  
-## WordPress speed optimization should be a top priority.
-What steps we can take to improve the performance of the WP site?
+### WordPress speed optimization should be a top priority.
+What steps I can take to improve the performance of the WP site?
     
     1. Improving Core Web Vitals.
     2. Hosting providers play a major role. For example Dedicated hosting performs best even during peak hours. 
